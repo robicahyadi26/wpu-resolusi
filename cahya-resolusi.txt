@@ -1,0 +1,6 @@
+Hallo Nama saya cahya berasal dari Bekasi
+
+Resolusi saya adalah :
+- Membuat web dengan framework Laravel
+- Mahir menggunakan framework Javascript vue atau react
+- Mahir menggunakan framework bootstrap
